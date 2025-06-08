@@ -1,1 +1,2 @@
-This is an added file1.
+
+This line is added to create conflict
